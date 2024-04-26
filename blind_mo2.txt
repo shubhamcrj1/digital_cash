@@ -1,0 +1,6 @@
+Name: mo2
+Amount: 1316
+Uniqueness 2680
+I1 id string: [[1741, 1072], [1403, 3300]]
+I2 id string: [[1881, 989], [2550, 80]]
+I3 id string: [[1852, 1827], [451, 2766]]

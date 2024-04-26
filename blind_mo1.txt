@@ -1,0 +1,6 @@
+Name: mo1
+Amount: 2803
+Uniqueness 2560
+I1 id string: [[2751, 1381], [2865, 52]]
+I2 id string: [[2414, 3171], [2202, 182]]
+I3 id string: [[471, 302], [3755, 2055]]
